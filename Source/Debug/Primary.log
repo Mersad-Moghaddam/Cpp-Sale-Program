@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  Base.cpp
+  Brand.cpp
+  Category.cpp
+  Customer.cpp
+  Factor.cpp
+  List.cpp
+E:\Primary24\Primary\List.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+E:\Primary24\Primary\List.cpp(146,20): warning C4018: '<': signed/unsigned mismatch
+E:\Primary24\Primary\List.cpp(196,20): warning C4018: '<': signed/unsigned mismatch
+  Primary.cpp
+E:\Primary24\Primary\Primary.cpp(256,14): warning C4101: 'CUSTS': unreferenced local variable
+E:\Primary24\Primary\Primary.cpp(256,21): warning C4101: 'PROS': unreferenced local variable
+  Product.cpp
+  Seller.cpp
+  Generating Code...
+  Primary.vcxproj -> E:\Primary24\Debug\Primary.exe
